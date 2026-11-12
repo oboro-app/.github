@@ -4,21 +4,17 @@
 
 <h1 align="center">oboro</h1>
 
-<p align="center"><b>Agent operations IDE for macOS</b><br>You talk. Agents carry the work from Issue to merge.</p>
+<p align="center"><b>AI のコーディングエージェントを指揮する macOS のアプリ</b><br>あなたは話すだけ。Issue からマージまでは、エージェントたちが運びます。</p>
 
 ---
 
-oboro runs a team of AI coding agents (Claude Code, Codex, OpenCode, Cursor, and more) on your repositories. Each Issue moves through implementation, independent review, and merge, while you stay focused on direction.
+oboro は、Claude Code、Codex、OpenCode、Cursor などの AI のコーディングエージェントを、あなたのリポジトリでチームとして動かします。Issue ごとに実装、独立したレビュー、マージまでを進めるので、あなたは方向を決めることに集中できます。
 
 | | |
 |---|---|
-| **One partner to talk to** | You give requests and advice to a single conversation partner. A separate orchestrator plans the work, assigns agents, and merges. |
-| **Decide only what matters** | Questions reach you as decisions, with the material to decide. Everything else moves on without waiting for you. |
-| **Evidence, not self-report** | Work counts as done when tests, checks, and an independent review say so. |
-| **Yours, on your Mac** | Agents run locally with your own CLI accounts, and keep working after you close the window. |
+| **話す相手は 1 人** | 要望と助言は、会話の相手 1 人に伝えるだけです。計画、担当の割り振り、マージは、別の指揮役が受け持ちます。 |
+| **決めるのは大事な所だけ** | 判断が必要な時だけ、判断の材料と一緒に問いが届きます。それ以外は、あなたを待たずに進みます。 |
+| **自己申告ではなく証拠で** | 作業の完了は、テスト、検査、独立したレビューで確かめます。 |
+| **あなたの Mac で動く** | エージェントは手元で、あなたの CLI のアカウントで動きます。窓を閉じても作業は続きます。 |
 
-oboro is in an invite-only beta.
-
----
-
-<p align="center"><sub>oboro (朧) は、AI のコーディングエージェントたちを指揮し、Issue からマージまでを進める macOS のアプリです。人間は要望と助言を伝え、判断が要る所だけを決めます。</sub></p>
+oboro は現在、招待制のベータ版です。
